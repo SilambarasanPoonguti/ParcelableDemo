@@ -1,0 +1,65 @@
+<resources>
+  <string name="app_name">Parcelable Demo</string>
+  <string name="temples">Temples</string>
+  <string name="location">Location</string>
+
+  <string-array name="temple_titles">
+    <item>Brihadisvara Temple</item>
+    <item>Meenakshi Amman Temple</item>
+    <item>Nataraja Temple</item>
+    <item>Palani Murugan temple</item>
+    <item>Kanchi Kailasanathar Temple</item>
+    <item>Annamalaiyar Temple</item>
+    <item>Ramanathaswamy Temple</item>
+    <item>Thiruchendur Murugan temple</item>
+    <item>Ekambareswarar Temple</item>
+    <item>Saleth Matha Church</item>
+    <item>Gorippalayam Dargah</item>
+  </string-array>
+  <string-array name="temple_desc">
+    <item>Brihadishvara Temple, also referred to as Rajesvara Peruvudaiyar or Brihadeeswarar Temple, is a Hindu temple dedicated to Shiva located in Thanjavur, Tamil Nadu, India</item>
+    <item>Meenakshi Temple, also referred to as Meenakshi Amman or Minakshi-Sundareshwara Temple, is a historic Hindu temple located on the southern bank of the Vaigai River
+      in the temple city of Madurai, Tamil Nadu, India. It is dedicated to Meenakshi, a form of Parvati, and her consort, Sundareswar, a form of Shiva.
+      The temple is at the center of the ancient temple city of Madurai mentioned in the Tamil Sangam literature, with the goddess temple mentioned in 6th century CE texts</item>
+    <item>The temple has mythical roots and a Shiva shrine existed at the site when the town was known as Thillai. Chidambaram, the name of the city and the temple
+      literally means "atmosphere of wisdom" or "clothed in thought", the temple architecture symbolizes the connection between the arts and spirituality, creative activity
+      and the divine. The temple wall carvings display all the 108 karanas from the Natya Shastra by Bharata Muni, and these postures form a foundation of Bharatanatyam,
+      a classical Indian dance.</item>
+    <item>Palani Arulmigu Shri Dhandayuthapani temple is one of the Six Abodes of Murugan. It is located in the town of Palani in Dindigul, 100 kilometres (62 mi) southeast of
+      Coimbatore and northwest of Madurai in the foot-hills of the Palani hills, Tamil Nadu, India. Palani temple is considered synonymous with Panchamirtam,
+      a sweet mixture made of five ingredients.</item>
+    <item>The kanchi Kailasanathar temple is the oldest structure in Kanchipuram. Located in Tamil Nadu, India, it is a Hindu temple in the Dravidian architectural style.
+      It is dedicated to the Lord Shiva, and is known for its historical importance.</item>
+    <item>Annamalaiyar Temple is an Hindu temple dedicated to the deity Shiva, located at the base of Annamalai hills in the town of Thiruvannamalai in Tamil Nadu, India.
+      It is significant to the Hindu sect of Saivism as one of the temples associated with the five elements, the Pancha Bhoota Stalas, and specifically the element of fire,
+      or Agni. Shiva is worshiped as Annamalaiyar or Arunachaleswarar, and is represented by the lingam, with his idol referred to as Agni lingam.</item>
+    <item>Ramanathaswamy Temple (இராமநாதஸ்வாமி கோயில் Irāmanātasvāmi Kōyil) is a Hindu temple dedicated to the god Shiva located on Rameswaram island in the state of Tamil Nadu,
+      India. It is also one of the twelve Jyotirlinga temples. It is one of the 274 Paadal Petra Sthalams, where the three of the most revered Nayanars (Saivite saints), Appar,
+      Sundarar and Tirugnana Sambandar, have glorified the temple with their songs. </item>
+    <item>Thiruchendur Murugan temple is known as the second Arupadai Veedu of Lord Muruga. Lord Muruga won the battle with the asura, Surapadma and worshipped Lord Shiva
+      in this sacred place. The temple is situated along the shores of the Bay of Bengal.T</item>
+    <item>The temple is believed to have been existing since 600 AD but, the present structure is said to be dating back to 11th-12th centuries.
+      The architecture of the temple showcases a signature Shaivite structure with a lofty gopuram, 5 prakrams or concentric circumambulatory enclosures.
+      The 1000 pillared hall adorning carvings of 1008 Shivlingas is believed to be added by the Vijayanagara kings during 15th century.
+      The inner sanctum houses the Prithvi Lingam. Also, the sacred mango tree, believed to be more than 3000 years old, can be seen in the temple premises.</item>
+    <item>La Saleth Church or Saleth Matha Church is one of the popular churches of Kodaikanal about three kms from Kodaikanal bus stand. It is one of the oldest churches
+      in the locality which is more than 130 years old. We took a long walk through Bryant Park to reach the church. The church is very colorful and is a great attraction for
+      the localites as well as tourists. It was worth trekking all the way.</item>
+    <item>Goripalayam Mosque is a large mosque in Goripalayam (part of Madurai City) containing two graves (tombs) of sultans of Yemen namely Hazrat Khaja Syed Sultan Alauddin Badusha
+      razi and Hazrat Khaja Syed Sulthan Shamsuddin of the Madurai Sultanate.There is also one invisible grave of Hazrat Khaja Syed Sultan Habibuddin razi who is also known as
+      Ghaibi Sultha who came to India to spread Islam.</item>
+  </string-array>
+  <string-array name="temple_address">
+    <item>Membalam Rd, Balaganapathy Nagar, Thanjavur, Tamil Nadu 613007</item>
+    <item>Madurai Main, Madurai, Tamil Nadu 625001</item>
+    <item>Chidambaram, Tamil Nadu 608001</item>
+    <item>Giri Veethi, Palani, Tamil Nadu 624601</item>
+    <item>Pillaiyarpalayam, Kanchipuram, Tamil Nadu 631501</item>
+    <item>Pavazhakundur, Tiruvannamalai, Tamil Nadu 606601</item>
+    <item>Rameswaram, Tamil Nadu 623526</item>
+    <item>Tiruchendur, Tamil Nadu</item>
+    <item>Kanchipuram</item>
+    <item>Kodaikanal, Tamil Nadu 624101</item>
+    <item>On The Bank Of Vaigai River, Madurai, Tamil Nadu, 625001</item>
+  </string-array>
+</resources>
